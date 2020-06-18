@@ -872,6 +872,50 @@ Keep in mind that some titles do not follow conventional episode credits \([Pant
 For example, [Princess Tutu](https://anilist.co/anime/721/Princess-Tutu/) is often credited as if it were a 26 episode anime but [AniList ](http://anilist.co)lists it as 38 as episodes. Episodes 14 to 37 were aired as 12 minute long episodes. A credit of ‘_**In-Between Check \(ep 26\)**_’ elsewhere might be ‘In-Between Check \(ep 38\)’ on [AniList](http://anilist.co), you’ll need to determine the convention used on the site you’re pulling the data from. Conversely, for a title like [Panty & Stocking with Garterbelt](https://anilist.co/anime/8795/Panty--Stocking-with-Garterbelt/), a credit for ‘_**Episode Director \(ep 2\)**_’ would be ‘_**Episode Director \(ep 1b\)**_’.
 :::
 
+##### **Theme Song Credits**
+
+###### Single Opening/Ending Theme Song Credits
+
+While specifically dealing with theme songs you will usually encounter four different credits: Performance (歌), Lyrics (作詞), Composition (作曲) and/or Arrangement (編曲). These are often found in the credit roll underneath either Opening Theme (オープニングテーマ) and/or Ending Theme (エンディングテーマ). In some rare cases they can also be found under Theme Song (主題歌).
+
+When crediting Performance, Lyrics, Composition and/or Arrangement for a staff member in an **opening**, **ending** or **opening and ending theme song**, they should be credited using the following formats:
+
+Opening | Ending | Opening and Ending
+------------ | ------------- | -------------
+Theme Song Performance (OP) | Theme Song Performance (ED) | Theme Song Performance (OP, ED)
+Theme Song Lyrics (OP) | Theme Song Lyrics (ED) | Theme Song Lyrics (OP, ED)
+Theme Song Composition (OP) | Theme Song Composition (ED) | Theme Song Composition (OP, ED)
+Theme Song Arrangement (OP) | Theme Song Arrangement (ED) | Theme Song Arrangement (OP, ED)
+
+###### Multiple Opening/Ending Theme Song Credits
+
+In longer running shows you will often have to deal with multiple opening and ending theme songs. In these cases, when crediting Performance, Lyrics, Composition and/or Arrangement for a staff member which appears in **one of two opening**, **ending** or **opening and ending theme** songs, they should be credited using the following formats:
+
+Opening | Ending | Opening and Ending
+------------ | ------------- | -------------
+Theme Song Performance (OP1) | Theme Song Performance (ED1) | Theme Song Performance (OP1, ED2)
+Theme Song Lyrics (OP1) | Theme Song Lyrics (ED1) | Theme Song Lyrics (OP1, ED2)
+Theme Song Composition (OP1) | Theme Song Composition (ED1) | Theme Song Composition (OP1, ED2)
+Theme Song Arrangement (OP1) | Theme Song Arrangement (ED1) | Theme Song Arrangement (OP1, ED2)
+
+In some cases the same band, artist and/or creator tend to appear in several **openings**, **endings** and/or **openings and endings** in a row. If you happen to come across a staff member credited **twice in a row** for Performance, Lyrics, Composition and/or Arrangement, they should be credited in the following formats:
+
+Openings | Endings | Openings and Endings
+------------ | ------------- | -------------
+Theme Song Performance (OP1, OP2) | Theme Song Performance (ED1, ED2) | Theme Song Performance (OP1, OP2, ED1, ED2)
+Theme Song Lyrics (OP1, OP2) | Theme Song Lyrics (ED1, ED2) | Theme Song Lyrics (OP1, OP2, ED1, ED2)
+Theme Song Composition (OP1, OP2) | Theme Song Composition (ED1, ED2) | Theme Song Composition (OP1, OP2, ED1, ED2)
+Theme Song Arrangement (OP1, OP2) | Theme Song Arrangement (ED1, ED2) | Theme Song Arrangement (OP1, OP2, ED1, ED2)
+
+In rarer cases the same staff member can be credited **three consecutive times** in a row for Performance, Lyrics, Composition and/or Arrangement in several **openings**, **endings** and/or **openings and endings** in the same show. If you come across this, they should be credited in the following formats:
+
+Openings | Endings | Openings and Endings
+------------ | ------------- | -------------
+Theme Song Performance (OP1-3) | Theme Song Performance (ED1, ED2) | Theme Song Performance (OP1, OP2, ED1, ED2)
+Theme Song Lyrics (OP1, OP2) | Theme Song Lyrics (ED1, ED2) | Theme Song Lyrics (OP1, OP2, ED1, ED2)
+Theme Song Composition (OP1, OP2) | Theme Song Composition (ED1, ED2) | Theme Song Composition (OP1, OP2, ED1, ED2)
+Theme Song Arrangement (OP1, OP2) | Theme Song Arrangement (ED1, ED2) | Theme Song Arrangement (OP1, OP2, ED1, ED2)
+
 #### Manga
 
 In terms of manga, for staff, credit writers with '_**Story'**_ and illustrators with '_**Art'**_. If a creator is both, credit them with '_**Story and Art'**_.
