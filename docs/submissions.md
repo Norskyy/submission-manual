@@ -872,29 +872,36 @@ Keep in mind that some titles do not follow conventional episode credits \([Pant
 For example, [Princess Tutu](https://anilist.co/anime/721/Princess-Tutu/) is often credited as if it were a 26 episode anime but [AniList ](http://anilist.co)lists it as 38 as episodes. Episodes 14 to 37 were aired as 12 minute long episodes. A credit of ‘_**In-Between Check \(ep 26\)**_’ elsewhere might be ‘In-Between Check \(ep 38\)’ on [AniList](http://anilist.co), you’ll need to determine the convention used on the site you’re pulling the data from. Conversely, for a title like [Panty & Stocking with Garterbelt](https://anilist.co/anime/8795/Panty--Stocking-with-Garterbelt/), a credit for ‘_**Episode Director \(ep 2\)**_’ would be ‘_**Episode Director \(ep 1b\)**_’.
 :::
 
-##### **Theme Song Credits**
-
+#### **Theme Song Credits**
+ 
 While specifically dealing with theme songs you will encounter four different credits: Performance (歌), Lyrics (作詞), Composition (作曲) and Arrangement (編曲). These are often found in the credit roll underneath either Opening Theme (オープニングテーマ) and Ending Theme (エンディングテーマ). In some rare cases they can also be found under Theme Song (主題歌).
 
-###### Single Opening/Ending Theme Song Credits
+#### Single Opening/Ending Theme Song Credits
 
 In the case where staff are credited for an **opening** theme song, they should be credited using the following formats: '**Theme Song Performance (OP)**', '**Theme Song Lyrics (OP)**', '**Theme Song Composition (OP)**' and '**Theme Song Arrangement (OP)**'. Or as seen in this example for the opening in [Gleipnir](https://anilist.co/anime/108241/Gleipnir/):
-
 ![Gleipnir Opening](https://kirig.s-ul.eu/wWjRKqcm)
 
-The same format is used for crediting **ending** theme songs, except the (OP) part should be swapped out with (ED) next to their credit, like this: '**Theme Song Performance (ED)**', '**Theme Song Lyrics (ED)**', '**Theme Song Composition (ED)**', '**Theme Song Arrangement (ED)**'. Or as seen in this example for the ending in [Gleipnir](https://anilist.co/anime/108241/Gleipnir/):
-
+The same format is used for crediting **ending** theme songs, except the (OP) part should be swapped out with (ED) like this: '**Theme Song Performance (ED)**', '**Theme Song Lyrics (ED)**', '**Theme Song Composition (ED)**', '**Theme Song Arrangement (ED)**'. Or as seen in this example for the ending in [Gleipnir](https://anilist.co/anime/108241/Gleipnir/):
 ![Gleipnir Ending](https://kirig.s-ul.eu/mQnjliIV)
 
-In some works staff are credited for **both** opening and ending theme songs. In these cases they should be credited with both (OP) and (ED) next to their credit, with a comma and space between them like this: '**Theme Song Performance (OP, ED)**', '**Theme Song Lyrics (OP, ED)**', '**Theme Song Composition (OP, ED)**' and '**Theme Song Arrangement (OP, ED)**' Or as seen in this example for the opening and ending in [Juushinki Pandora](https://anilist.co/anime/100341/Juushinki-Pandora/):
-
+In some works staff are credited for **both** opening and ending theme songs. In these cases they should be credited with both OP and ED next to their credit, with a comma and space between them like this: '**Theme Song Performance (OP, ED)**', '**Theme Song Lyrics (OP, ED)**', '**Theme Song Composition (OP, ED)**' and '**Theme Song Arrangement (OP, ED)**' Or as seen in this example for the opening and ending in [Juushinki Pandora](https://anilist.co/anime/100341/Juushinki-Pandora/):
 ![Juushinki Pandora Opening/Ending](https://kirig.s-ul.eu/tjDNW2WF)
 
-###### Multiple Opening/Ending Theme Song Credits
+##### Multiple Opening/Ending Theme Song Credits
 
-In cases where a show has **multiple** opening and ending theme songs, where staff is only credited in **one of two** theme songs, they should be credited with a number next to the (OP) or (ED) credit like this: '**Theme Song Performance (OP1)**', '**Theme Song Lyrics (OP1)**', '**Theme Song Composition (OP1)**' and  '**Theme Song Arrangement (OP1)**'. 
+In shows where staff are credited in **one of multiple** opening theme songs, they should be credited with an indicating number next to their OP like this: '**Theme Song Performance (OP1)**', '**Theme Song Lyrics (OP1)**', '**Theme Song Composition (OP1)**' and  '**Theme Song Arrangement (OP1)**'. Or as seen in this example for the first opening in [Ahiru no Sora](https://anilist.co/anime/101239/Ahiru-no-Sora/):
+![Ahiru no Sora OP1](https://kirig.s-ul.eu/X7UNv9qt)
 
-There are some exceptions to this, for example, when staff are credited in an opening or ending theme song that only airs for **one episode**, they should be credited like this: '**Theme Song Performance (OP: ep 1)**', '**Theme Song Lyrics (OP: ep 1)**', '**Theme Song Composition (OP: ep 1)**' and '**Theme Song Arrangement (OP: ep 1)**'. In another exception, if they are credited in an opening or ending that airs in several **non-consecutive** episodes, they should be credited like this: '**Theme Song Performance (OP: eps 1, 7, 18, 24)**', '**Theme Song Lyrics (OP: ep 1, 7, 18, 24)**', '**Theme Song Composition (OP: ep 1, 7, 18, 24)**' and '**Theme Song Arrangement (OP: ep 1, 7, 18, 24)**'
+The same format applies to staff who are credited in **one of multiple** ending theme songs, except OP should be swapped out for ED like this: '**Theme Song Performance (ED1)**', '**Theme Song Lyrics (ED1)**', '**Theme Song Composition (ED1)**' and  '**Theme Song Arrangement (ED1)**'. Or as seen in this example for the first ending in [Ahiru no Sora](https://anilist.co/anime/101239/Ahiru-no-Sora/):
+![Ahiru no Sora ED1](https://kirig.s-ul.eu/cpD58D2G)
+
+In other works, where staff are credited in **both** an opening and ending theme, in a show that features **multiple** opening and ending theme songs, they should be credited like this: '**Theme Song Performance (OP1, ED2)**', '**Theme Song Lyrics (OP1, ED2)**', '**Theme Song Composition (OP1, ED2)**', '**Theme Song Arrangement (OP1, ED2)**'.
+
+There are some exceptions to the format above:
+
+When staff are credited in an opening or ending theme song that only airs for **one episode**, they should be credited like this: '**Theme Song Performance (OP: ep 1)**', '**Theme Song Lyrics (OP: ep 1)**', '**Theme Song Composition (OP: ep 1)**' and '**Theme Song Arrangement (OP: ep 1)**', or like this '**Theme Song Performance (ED: ep 1)**', '**Theme Song Lyrics (ED: ep 1)**', '**Theme Song Composition (ED: ep 1)**' and '**Theme Song Arrangement (ED: ep 1)**',
+
+Another exception is when staff are credited in an opening or ending that airs in several **non-consecutive** episodes, in this case they should be credited like this: '**Theme Song Performance (OP: eps 1, 7, 18, 24)**', '**Theme Song Lyrics (OP: ep 1, 7, 18, 24)**', '**Theme Song Composition (OP: ep 1, 7, 18, 24)**' and '**Theme Song Arrangement (OP: ep 1, 7, 18, 24)**'
 
 #### Manga
 
