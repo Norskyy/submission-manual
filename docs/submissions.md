@@ -876,9 +876,15 @@ For example, [Princess Tutu](https://anilist.co/anime/721/Princess-Tutu/) is oft
 
 ###### Single Opening/Ending Theme Song Credits
 
-While specifically dealing with theme songs you will usually encounter four different credits: Performance (歌), Lyrics (作詞), Composition (作曲) and/or Arrangement (編曲). These are often found in the credit roll underneath either Opening Theme (オープニングテーマ) and/or Ending Theme (エンディングテーマ). In some rare cases they can also be found under Theme Song (主題歌).
+While specifically dealing with theme songs you will encounter four different credits: Performance (歌), Lyrics (作詞), Composition (作曲) and Arrangement (編曲). These are often found in the credit roll underneath either Opening Theme (オープニングテーマ) and Ending Theme (エンディングテーマ). In some rare cases they can also be found under Theme Song (主題歌).
 
-When crediting Performance, Lyrics, Composition and/or Arrangement for a staff member in an **opening**, **ending** or **opening and ending theme song**, they should be credited using the following formats:
+In the case where staff are credited in an **opening** theme song, they should be credited using the following formats: '**Theme Song Performance (OP)**', '**Theme Song Lyrics (OP)**', '**Theme Song Composition (OP)**' and '**Theme Song Arrangement (OP)**'. 
+
+The same format is used for **ending** theme songs, except the (OP) part should be swapped out with (ED) next to their credit, like this: '**Theme Song Performance (ED)**', '**Theme Song Lyrics (ED)**', '**Theme Song Composition (ED)**', '**Theme Song Arrangement (ED)**'.
+
+Here's an example of what both credits would like on the site:
+![](https://kirig.s-ul.eu/ArcY7nfN)
+
 
 Opening | Ending | Opening and Ending
 ------------ | ------------- | -------------
