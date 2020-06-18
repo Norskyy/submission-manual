@@ -878,12 +878,16 @@ For example, [Princess Tutu](https://anilist.co/anime/721/Princess-Tutu/) is oft
 
 While specifically dealing with theme songs you will encounter four different credits: Performance (歌), Lyrics (作詞), Composition (作曲) and Arrangement (編曲). These are often found in the credit roll underneath either Opening Theme (オープニングテーマ) and Ending Theme (エンディングテーマ). In some rare cases they can also be found under Theme Song (主題歌).
 
-In the case where staff are credited in an **opening** theme song, they should be credited using the following formats: '**Theme Song Performance (OP)**', '**Theme Song Lyrics (OP)**', '**Theme Song Composition (OP)**' and '**Theme Song Arrangement (OP)**'. 
+In the case where staff are credited for an **opening** theme song, they should be credited using the following formats: '**Theme Song Performance (OP)**', '**Theme Song Lyrics (OP)**', '**Theme Song Composition (OP)**' and '**Theme Song Arrangement (OP)**'. Or as seen in this example for the opening in [Gleipnir](https://anilist.co/anime/108241/Gleipnir/).
 
-The same format is used for **ending** theme songs, except the (OP) part should be swapped out with (ED) next to their credit, like this: '**Theme Song Performance (ED)**', '**Theme Song Lyrics (ED)**', '**Theme Song Composition (ED)**', '**Theme Song Arrangement (ED)**'.
+![Gleipnir Opening](https://kirig.s-ul.eu/wWjRKqcm)
 
-Here's an example of what both credits would like on the site:
-![](https://kirig.s-ul.eu/ArcY7nfN)
+The same format is used for crediting **ending** theme songs, except the (OP) part should be swapped out with (ED) next to their credit, like this: '**Theme Song Performance (ED)**', '**Theme Song Lyrics (ED)**', '**Theme Song Composition (ED)**', '**Theme Song Arrangement (ED)**'. Or as seen in this example for the ending in [Gleipnir](https://anilist.co/anime/108241/Gleipnir/).
+
+![Gleipnir Ending](https://kirig.s-ul.eu/mQnjliIV)
+
+
+In some works staff are credited for **both** opening and ending theme songs. In these cases they should be credited with both (OP) and (ED) next to their credit, with a comma and space between them like this: '**Theme Song Performance (OP, ED)**', '**Theme Song Lyrics (OP, ED)**', '**Theme Song Composition (OP, ED)**' and '**Theme Song Arrangement (OP, ED)**'
 
 
 Opening | Ending | Opening and Ending
