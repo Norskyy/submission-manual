@@ -878,53 +878,17 @@ For example, [Princess Tutu](https://anilist.co/anime/721/Princess-Tutu/) is oft
 
 While specifically dealing with theme songs you will encounter four different credits: Performance (歌), Lyrics (作詞), Composition (作曲) and Arrangement (編曲). These are often found in the credit roll underneath either Opening Theme (オープニングテーマ) and Ending Theme (エンディングテーマ). In some rare cases they can also be found under Theme Song (主題歌).
 
-In the case where staff are credited for an **opening** theme song, they should be credited using the following formats: '**Theme Song Performance (OP)**', '**Theme Song Lyrics (OP)**', '**Theme Song Composition (OP)**' and '**Theme Song Arrangement (OP)**'. Or as seen in this example for the opening in [Gleipnir](https://anilist.co/anime/108241/Gleipnir/).
+In the case where staff are credited for an **opening** theme song, they should be credited using the following formats: '**Theme Song Performance (OP)**', '**Theme Song Lyrics (OP)**', '**Theme Song Composition (OP)**' and '**Theme Song Arrangement (OP)**'. Or as seen in this example for the opening in [Gleipnir](https://anilist.co/anime/108241/Gleipnir/):
 
 ![Gleipnir Opening](https://kirig.s-ul.eu/wWjRKqcm)
 
-The same format is used for crediting **ending** theme songs, except the (OP) part should be swapped out with (ED) next to their credit, like this: '**Theme Song Performance (ED)**', '**Theme Song Lyrics (ED)**', '**Theme Song Composition (ED)**', '**Theme Song Arrangement (ED)**'. Or as seen in this example for the ending in [Gleipnir](https://anilist.co/anime/108241/Gleipnir/).
+The same format is used for crediting **ending** theme songs, except the (OP) part should be swapped out with (ED) next to their credit, like this: '**Theme Song Performance (ED)**', '**Theme Song Lyrics (ED)**', '**Theme Song Composition (ED)**', '**Theme Song Arrangement (ED)**'. Or as seen in this example for the ending in [Gleipnir](https://anilist.co/anime/108241/Gleipnir/):
 
 ![Gleipnir Ending](https://kirig.s-ul.eu/mQnjliIV)
 
+In some works staff are credited for **both** opening and ending theme songs. In these cases they should be credited with both (OP) and (ED) next to their credit, with a comma and space between them like this: '**Theme Song Performance (OP, ED)**', '**Theme Song Lyrics (OP, ED)**', '**Theme Song Composition (OP, ED)**' and '**Theme Song Arrangement (OP, ED)**' Or as seen in this example for the opening and ending in [Juushinki Pandora](https://anilist.co/anime/100341/Juushinki-Pandora/):
 
-In some works staff are credited for **both** opening and ending theme songs. In these cases they should be credited with both (OP) and (ED) next to their credit, with a comma and space between them like this: '**Theme Song Performance (OP, ED)**', '**Theme Song Lyrics (OP, ED)**', '**Theme Song Composition (OP, ED)**' and '**Theme Song Arrangement (OP, ED)**'
-
-
-Opening | Ending | Opening and Ending
------------- | ------------- | -------------
-Theme Song Performance (OP) | Theme Song Performance (ED) | Theme Song Performance (OP, ED)
-Theme Song Lyrics (OP) | Theme Song Lyrics (ED) | Theme Song Lyrics (OP, ED)
-Theme Song Composition (OP) | Theme Song Composition (ED) | Theme Song Composition (OP, ED)
-Theme Song Arrangement (OP) | Theme Song Arrangement (ED) | Theme Song Arrangement (OP, ED)
-
-###### Multiple Opening/Ending Theme Song Credits
-
-In longer running shows you will often have to deal with multiple opening and ending theme songs. In these cases, when crediting Performance, Lyrics, Composition and/or Arrangement for a staff member which appears in **one of two opening**, **ending** or **opening and ending theme** songs, they should be credited using the following formats:
-
-Opening | Ending | Opening and Ending
------------- | ------------- | -------------
-Theme Song Performance (OP1) | Theme Song Performance (ED1) | Theme Song Performance (OP1, ED2)
-Theme Song Lyrics (OP1) | Theme Song Lyrics (ED1) | Theme Song Lyrics (OP1, ED2)
-Theme Song Composition (OP1) | Theme Song Composition (ED1) | Theme Song Composition (OP1, ED2)
-Theme Song Arrangement (OP1) | Theme Song Arrangement (ED1) | Theme Song Arrangement (OP1, ED2)
-
-In some cases the same band, artist and/or creator tend to appear in several **openings**, **endings** and/or **openings and endings** in a row. If you happen to come across a staff member credited **twice in a row** for Performance, Lyrics, Composition and/or Arrangement, they should be credited in the following formats:
-
-Openings | Endings | Openings and Endings
------------- | ------------- | -------------
-Theme Song Performance (OP1, OP2) | Theme Song Performance (ED1, ED2) | Theme Song Performance (OP1, OP2, ED1, ED2)
-Theme Song Lyrics (OP1, OP2) | Theme Song Lyrics (ED1, ED2) | Theme Song Lyrics (OP1, OP2, ED1, ED2)
-Theme Song Composition (OP1, OP2) | Theme Song Composition (ED1, ED2) | Theme Song Composition (OP1, OP2, ED1, ED2)
-Theme Song Arrangement (OP1, OP2) | Theme Song Arrangement (ED1, ED2) | Theme Song Arrangement (OP1, OP2, ED1, ED2)
-
-In rarer cases the same staff member can be credited **three consecutive times** in a row for Performance, Lyrics, Composition and/or Arrangement in several **openings**, **endings** and/or **openings and endings** in the same show. If you come across this, they should be credited in the following formats:
-
-Openings | Endings | Openings and Endings
------------- | ------------- | -------------
-Theme Song Performance (OP1-3) | Theme Song Performance (ED1, ED2) | Theme Song Performance (OP1, OP2, ED1, ED2)
-Theme Song Lyrics (OP1, OP2) | Theme Song Lyrics (ED1, ED2) | Theme Song Lyrics (OP1, OP2, ED1, ED2)
-Theme Song Composition (OP1, OP2) | Theme Song Composition (ED1, ED2) | Theme Song Composition (OP1, OP2, ED1, ED2)
-Theme Song Arrangement (OP1, OP2) | Theme Song Arrangement (ED1, ED2) | Theme Song Arrangement (OP1, OP2, ED1, ED2)
+![Juushinki Pandora Opening/Ending](https://kirig.s-ul.eu/tjDNW2WF)
 
 #### Manga
 
