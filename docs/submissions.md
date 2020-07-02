@@ -886,19 +886,31 @@ The same format is used for crediting **ending** theme songs, except (OP) should
 
 ![](https://kirig.s-ul.eu/mQnjliIV)
 
-The same format is also used for crediting for **both** opening and ending theme songs, except they should be credited with both (OP) and (ED) next to their role, with a comma and space between them like this: '**Theme Song Performance (OP, ED)**', '**Theme Song Lyrics (OP, ED)**', '**Theme Song Composition (OP, ED)**' and '**Theme Song Arrangement (OP, ED)**'. Or as seen in this example for [Juushinki Pandora's](https://anilist.co/anime/100341/Juushinki-Pandora/) opening and ending theme song:
+The same format is also used for crediting for **both** opening and ending theme songs, except they should be credited with both (OP) and (ED) next to their role, with a comma and space between them like this: **Theme Song Performance (OP, ED)**, **Theme Song Lyrics (OP, ED)**, **Theme Song Composition (OP, ED)** and **Theme Song Arrangement (OP, ED)**. Or as seen in this example for [Juushinki Pandora's](https://anilist.co/anime/100341/Juushinki-Pandora/) opening and ending theme song:
 
 ![](https://kirig.s-ul.eu/tjDNW2WF)
 
 #### Multiple Opening and Ending Credits
 
-If a staff member is credited in **one of multiple** opening theme songs, they should be credited with the **opening number** next to (OP) to indicate which opening they they worked on, like this: '**Theme Song Performance (OP1)**', '**Theme Song Lyrics (OP1)**', '**Theme Song Composition (OP1)**' and  '**Theme Song Arrangement (OP1)**'. Or as seen in this example for [Ahiru no Sora's](https://anilist.co/anime/101239/Ahiru-no-Sora/staff) first opening theme song:
+If a staff member is credited in **one of multiple** opening theme songs, they should be credited with a number next to (OP), to indicate which opening they appeared in, like this: **Theme Song Performance (OP1)**, **Theme Song Lyrics (OP1)**, **Theme Song Composition (OP1)** and  **Theme Song Arrangement (OP1)**. Or as seen in this example for [Ahiru no Sora's](https://anilist.co/anime/101239/Ahiru-no-Sora/staff) first opening theme song:
 
 ![](https://kirig.s-ul.eu/X7UNv9qt)
 
-The same format applies to staff who are credited in **one of multiple** ending theme songs, except OP should be swapped out for ED like this: '**Theme Song Performance (ED1)**', '**Theme Song Lyrics (ED1)**', '**Theme Song Composition (ED1)**' and  '**Theme Song Arrangement (ED1)**'.
+The same format applies to staff who are credited in **one of multiple** ending theme songs, except (OP) should be swapped out for (ED), as seen in this example for [Ahiru no Sora's](https://anilist.co/anime/101239/Ahiru-no-Sora/staff) first ending theme song:
 
-In other works, where staff are credited in **both** an opening and ending theme, in a show that features **multiple** opening and ending theme songs, they should be credited like this: '**Theme Song Performance (OP1, ED2)**', '**Theme Song Lyrics (OP1, ED2)**', '**Theme Song Composition (OP1, ED2)**', '**Theme Song Arrangement (OP1, ED2)**'.
+![](https://kirig.s-ul.eu/6x6ZY15o)
+
+In works that feature **multiple** opening and ending themes, where a staff member is credited in **both** an opening and ending theme song, they should be credited like this: **Theme Song Performance (OP1, ED1)**, **Theme Song Lyrics (OP1, ED1)**, **Theme Song Composition (OP1, ED1)**, **Theme Song Arrangement (OP1, ED1)**. Or as seen in this example for [3-gatsu no Lion's](https://anilist.co/anime/21366/3gatsu-no-Lion/) first opening and ending theme songs:
+
+![](https://kirig.s-ul.eu/MfhBZoUd)
+
+In the event that staff are credited in **two of multiple** opening theme songs, be it either **consecutive** or **non-consecutive**, they should be credited **in order of appearance**, using the following format: **Theme Song Performance (OP1, OP2)**, **Theme Song Lyrics (OP1, OP2)**, **Theme Song Composition (OP1, OP2)**, **Theme Song Arrangement (OP1, OP2)**. Or as seen in this example for [Kuromukoro's](https://anilist.co/anime/21516/Kuromukuro/) first and second opening theme songs:
+
+![](https://kirig.s-ul.eu/SUxRZSXk)
+
+The same format applies to staff who are credited in **two of multiple** ending theme songs, they should be credited like this: **Theme Song Performance (ED1, ED2)**, **Theme Song Lyrics (ED1, ED2)**, **Theme Song Composition (ED1, ED2)**, **Theme Song Arrangement (ED1, ED2)**. Or as seen in this example for [Little Busters'](https://anilist.co/anime/13655/Little-Busters/staff) first and second ending theme songs:
+
+![](https://kirig.s-ul.eu/mgcs7HP1)
 
 There are some exceptions to the format above:
 
