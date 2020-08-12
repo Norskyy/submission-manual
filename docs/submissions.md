@@ -912,6 +912,8 @@ The same format applies to staff who are credited in **two of multiple** ending 
 
 ![](https://kirig.s-ul.eu/mgcs7HP1)
 
+The same format applies to staff who are credited in **two of multiple** opening and ending theme songs in the same show, the only thing of note is that if they appear in an ending theme before an opening theme they should be credited with their (OP) credits before their (ED) credits, like this: **Theme Song Performance (OP1, OP2, ED1, ED2)**, **Theme Song Lyrics (OP1, OP2, ED1, ED2)**, **Theme Song Composition (OP1, OP2, ED1, ED2)**, **Theme Song Arrangement (OP1, OP2, ED1, ED2)**. Or as seen in this 
+
 There are some exceptions to the format above:
 
 When staff are credited in an opening or ending theme song that only airs for **one episode**, they should be credited like this: '**Theme Song Performance (OP: ep 1)**', '**Theme Song Lyrics (OP: ep 1)**', '**Theme Song Composition (OP: ep 1)**' and '**Theme Song Arrangement (OP: ep 1)**', or like this '**Theme Song Performance (ED: ep 1)**', '**Theme Song Lyrics (ED: ep 1)**', '**Theme Song Composition (ED: ep 1)**' and '**Theme Song Arrangement (ED: ep 1)**',
